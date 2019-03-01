@@ -1,0 +1,26 @@
+PARTE 1: 
+1.	Cree un proyecto denominado LaboratorioRepeticion (recuerde que algunas herramientas no crean proyectos, por lo que deberá crear una carpeta con el nombre LaboratorioVCS en donde guardará los archivos de manera local). 
+2.	Inicialice un repositorio Git local en el proyecto creado en su computador. 
+3.	Cree un Repositorio en GitHub llamado LaboratorioRepeticionRemoto. 
+4.	En el proyecto local, cree archivo llamado instrucciones.txt, en donde guarde cada uno de los numerales de esta lista. 
+ 
+PARTE 2: 
+5.	Cree un archivo de Python llamado mayor.py, en donde realice un algoritmo que permita determinar si un número entero a es mayor a cero. 
+6.	Realice un commit del código con el mensaje “Mi primer commit” y súbalo al repositorio mediante el comando push. Nota: Sólo el archivo mayor.py debe ser cargado por lo que debe crearse el archivo gitignore para evitar que suba el archivo de instrucciones. También recuerde la importancia del comando git add para agregar archivos al seguimiento del control de versiones. 
+7.	Modifique el algoritmo para que ahora lea 10 números y determine cuántos números fueros positivos, cuántos negativos y cuántos fueron cero. 
+8.	Realice un commit del código con el mensaje “Ejercicio resuelto” y súbalo al repositorio mediante el comando push. 
+Carlos Humberto Carreño Díaz 
+ 
+PARTE 3: 
+9.	Cree un archivo de Python llamado positivos.py, en donde realice un algoritmo que permita determinar si un número entero a es par. No olvide agregar con el comando git add. 
+10.	Realice un commit del código con el mensaje “Creación segundo algortimo” y súbalo al repositorio mediante el comando push.  
+11.	Modifique el algoritmo para que ahora lea una cantidad variable de números y determine cuántos números fueron pares. El algoritmo dejará de leer números cuando digite un número impar.  
+12.	Realice un commit del código con el mensaje “Ejercicio dos resuelto” y súbalo al repositorio mediante el comando push. 
+ 
+PARTE 4: 
+En los siguientes puntos se deben realizar las diferentes instrucciones git aunque no se esté indicando textualmente, se da por sentado que ya ha apropiado las buenas prácticas del control de versiones. 
+13.	Cree un nuevo archivo llamado promedio.py en el cual escriba un algoritmo que lea n números y calcule su suma y su promedio. Una vez finalice súbalo al repositorio. 
+14.	Modifique el algoritmo de manera tal que si anteriormente utilizó una estructura de control for (para) ahora lo haga usando una estructura while o do-while (mientras o hacer mientras). Una vez finalice súbalo al repositorio. 
+ 
+ 
+PLUS: Averigüe qué son y cómo se realizan PRUEBAS UNITARIAS de un código. 
